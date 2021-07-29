@@ -13,6 +13,3 @@ The task was divided into 3 sprints:
 
 • Adapt :
   Added the additional functionality, i.e., a chatting area to the Web App for the participants to message.
-
-Click on this link to create a new Video Conference
-https://dry-woodland-27447.herokuapp.com/
